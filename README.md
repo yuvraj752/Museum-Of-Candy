@@ -5,4 +5,4 @@ A responsive and stunning landing page designed to showcase the luxurious glint 
 <img src='./resources/2 Home.PNG'>
 <img src='./resources/3 Home.PNG'>
 <img src='./resources/4 Home.PNG'>
-<img src='./resources/5 Home.PNG'>
+<img src='./resources/5 Home.png'>
